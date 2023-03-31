@@ -9,12 +9,21 @@
 Refactor a fully functioning Google Books API search engine built with a RESTful API as a GraphQL API built with Apollo Server. The original app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It was already set up to allow users to save book searches to the back end.
 
 ## Table of Contents
+<<<<<<< HEAD
 - [Technologies Utilized](#Technologies)
 - [Screenshot](#Screen) 
 - [Deployment](#deployed-application)
 - [Contact](#Contact)
 
 
+=======
+- [Core Objectives Met](#Core)
+- [Technologies Utilized](#Technologies)
+- [Screenshot](#Screen) 
+- [License](#MIT)
+- [Contact](#Contact)
+
+>>>>>>> ac44db79c01fafbc67c00d74e37fd013b7d597cb
 ## Technologies Utilized
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [Heroku](https://www.heroku.com)
